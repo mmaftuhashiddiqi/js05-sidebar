@@ -1,0 +1,11 @@
+Color
+1. Burger Menu: #49A6EA
+2. Navbar Active Background: #FFFFFF
+3. Coding Title: #222222
+4. Addict Title: #49A6EA
+5. Navbar Menu Text: #324E67
+6. Social Media Color: #49A6EA
+6. Outside Navbar: #F1F5F8
+
+Font Family
+Lato
